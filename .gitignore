@@ -1,0 +1,17 @@
+ChatGPT-RN/node_modules/
+ChatGPT-RN/.expo/
+ChatGPT-RN/dist/
+ChatGPT-RN/npm-debug.*
+ChatGPT-RN/*.jks
+ChatGPT-RN/*.p8
+ChatGPT-RN/*.p12
+ChatGPT-RN/*.key
+ChatGPT-RN/*.mobileprovision
+ChatGPT-RN/*.orig.*
+ChatGPT-RN/web-build/
+
+# macOS
+ChatGPT-RN/.DS_Store
+
+# Temporary files created by Metro to check the health of the file watcher
+ChatGPT-RN/.metro-health-check*
